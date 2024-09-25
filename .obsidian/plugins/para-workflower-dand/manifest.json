@@ -1,0 +1,11 @@
+{
+	"id": "para-workflower-dand",
+	"name": "PARA Workflower Dand",
+	"version": "0.1.5",
+	"minAppVersion": "1.5.8",
+	"description": "Helpful commands for starting and working in your vault with the PARA method.",
+	"author": "Dand",
+	"authorUrl": "https://github.com/nguyendanhda98",
+	"isDesktopOnly": false
+}
+
